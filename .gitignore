@@ -1,0 +1,65 @@
+# Django
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+dist/
+build/
+*.log
+*.pot
+*.pyc
+
+# React with Vite
+node_modules/
+dist/
+build/
+.cache/
+public/
+yarn-error.log*
+*.log
+*.swp
+.DS_Store
+
+# Virtual Environment
+venv/
+*.pyc
+*.pyo
+*.env
+*.egg-info/
+__pycache__/
+
+# Visual Studio Code
+.vscode/
+.settings/
+*.code-workspace
+*.launch
+*.json
+*.sublime-project
+*.sublime-workspace
+*.tmuxinator
+*.tmuxinator.yml
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
